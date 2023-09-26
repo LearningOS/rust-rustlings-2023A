@@ -1,6 +1,3 @@
-# 2023 春夏季 OS 训练营 
-## Rustlings 集训班 github classroom 地址：<https://classroom.github.com/a/H1iQ2GNX>
-
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
